@@ -1,0 +1,13 @@
+,codaluguel,codcliente,codcarro,data_aluguel,nome,cidade,sexo,estado,estadocivil,codmarca,modelo,valor,marca
+0,1.0,3.0,2.0,2023-04-01,Túlio Nascimento,Duque de Caxias,M,RJ,S,2.0,Argo,150.0,Fiat
+1,8.0,5.0,2.0,2023-04-19,Lúcia Andrade,São Paulo,F,SP,C,2.0,Argo,150.0,Fiat
+2,9.0,5.0,2.0,2023-04-21,Lúcia Andrade,São Paulo,F,SP,C,2.0,Argo,150.0,Fiat
+3,10.0,3.0,1.0,2023-04-25,Túlio Nascimento,Duque de Caxias,M,RJ,S,1.0,Ka,100.0,Ford
+4,2.0,2.0,1.0,2023-04-02,Bruna Pereira,Niterói,F,RJ,C,1.0,Ka,100.0,Ford
+5,3.0,2.0,1.0,2023-04-03,Bruna Pereira,Niterói,F,RJ,C,1.0,Ka,100.0,Ford
+6,7.0,1.0,1.0,2023-04-15,Ana Silva,Duque de Caxias,F,RJ,C,1.0,Ka,100.0,Ford
+7,4.0,2.0,3.0,2023-04-04,Bruna Pereira,Niterói,F,RJ,C,3.0,Onix,170.0,Chevrolet
+8,5.0,1.0,4.0,2023-04-05,Ana Silva,Duque de Caxias,F,RJ,C,4.0,Polo,150.0,Volkswagen
+9,6.0,1.0,4.0,2023-04-13,Ana Silva,Duque de Caxias,F,RJ,C,4.0,Polo,150.0,Volkswagen
+10,,4.0,,,Fernando Souza,Campinas,M,SP,S,,,,
+11,,,5.0,,,,,,,5.0,Kwid,120.0,Renault

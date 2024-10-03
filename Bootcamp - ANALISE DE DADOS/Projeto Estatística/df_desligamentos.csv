@@ -1,0 +1,51 @@
+ID_Desligamento,ID_Funcionario,Data_Desligamento,Motivo
+1,24,2023-01-01,Pedido de Demissão
+2,34,2023-01-08,Pedido de Demissão
+3,30,2023-01-15,Pedido de Demissão
+4,82,2023-01-22,Corte de Custos
+5,19,2023-01-29,Corte de Custos
+6,31,2023-02-05,Desempenho Insatisfatório
+7,60,2023-02-12,Pedido de Demissão
+8,60,2023-02-19,Desempenho Insatisfatório
+9,19,2023-02-26,Pedido de Demissão
+10,49,2023-03-05,Corte de Custos
+11,63,2023-03-12,Corte de Custos
+12,83,2023-03-19,Corte de Custos
+13,22,2023-03-26,Pedido de Demissão
+14,24,2023-04-02,Corte de Custos
+15,76,2023-04-09,Pedido de Demissão
+16,30,2023-04-16,Desempenho Insatisfatório
+17,58,2023-04-23,Pedido de Demissão
+18,31,2023-04-30,Desempenho Insatisfatório
+19,100,2023-05-07,Pedido de Demissão
+20,64,2023-05-14,Desempenho Insatisfatório
+21,19,2023-05-21,Corte de Custos
+22,48,2023-05-28,Desempenho Insatisfatório
+23,45,2023-06-04,Corte de Custos
+24,100,2023-06-11,Corte de Custos
+25,94,2023-06-18,Desempenho Insatisfatório
+26,55,2023-06-25,Pedido de Demissão
+27,55,2023-07-02,Pedido de Demissão
+28,97,2023-07-09,Pedido de Demissão
+29,18,2023-07-16,Pedido de Demissão
+30,63,2023-07-23,Pedido de Demissão
+31,92,2023-07-30,Corte de Custos
+32,47,2023-08-06,Pedido de Demissão
+33,75,2023-08-13,Corte de Custos
+34,57,2023-08-20,Corte de Custos
+35,45,2023-08-27,Corte de Custos
+36,33,2023-09-03,Desempenho Insatisfatório
+37,17,2023-09-10,Desempenho Insatisfatório
+38,70,2023-09-17,Corte de Custos
+39,4,2023-09-24,Desempenho Insatisfatório
+40,20,2023-10-01,Pedido de Demissão
+41,47,2023-10-08,Pedido de Demissão
+42,91,2023-10-15,Corte de Custos
+43,15,2023-10-22,Pedido de Demissão
+44,70,2023-10-29,Corte de Custos
+45,47,2023-11-05,Corte de Custos
+46,78,2023-11-12,Pedido de Demissão
+47,75,2023-11-19,Desempenho Insatisfatório
+48,9,2023-11-26,Pedido de Demissão
+49,90,2023-12-03,Pedido de Demissão
+50,16,2023-12-10,Corte de Custos

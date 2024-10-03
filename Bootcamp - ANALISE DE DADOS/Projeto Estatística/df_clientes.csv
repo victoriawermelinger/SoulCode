@@ -1,0 +1,41 @@
+id_cliente,nome,telefone,cidade,email,genero,endereco,renda,data_nascimento
+1,João Silva,(11) 98765-4321,São Paulo,joao@email.com,Masculino,"Rua A, 123",5000.0,1980-05-10
+2,Maria Santos,(21) 98765-5432,Rio de Janeiro,maria@email.com,Feminino,"Av. B, 456",4000.0,1985-08-15
+3,Carlos Oliveira,(31) 98765-6543,Belo Horizonte,carlos@email.com,Masculino,"Rua C, 789",4500.0,1982-03-25
+4,Ana Souza,(51) 98765-7654,Porto Alegre,ana@email.com,Feminino,"Av. D, 987",3800.0,1990-12-08
+5,Pedro Santos,(41) 98765-8765,Curitiba,pedro@email.com,Masculino,"Rua E, 654",6000.0,1975-09-14
+6,Luciana Lima,(11) 98765-9876,São Paulo,luciana@email.com,Feminino,"Rua F, 321",4200.0,1987-06-30
+7,Rafael Costa,(21) 98765-8765,Rio de Janeiro,rafael@email.com,Masculino,"Av. G, 654",5500.0,1983-04-18
+8,Mariana Oliveira,(31) 98765-7654,Belo Horizonte,mariana@email.com,Feminino,"Rua H, 987",4800.0,1989-02-22
+9,Gustavo Martins,(51) 98765-6543,Porto Alegre,gustavo@email.com,Masculino,"Av. I, 234",7000.0,1980-10-15
+10,Camila Silva,(41) 98765-5432,Curitiba,camila@email.com,Feminino,"Rua J, 876",3200.0,1992-07-05
+11,Felipe Santos,(11) 98765-4321,São Paulo,felipe@email.com,Masculino,"Av. K, 567",5800.0,1986-11-28
+12,Carla Lima,(21) 98765-3210,Rio de Janeiro,carla@email.com,Feminino,"Rua L, 1098",3900.0,1995-03-14
+13,Bruno Oliveira,(31) 98765-2109,Belo Horizonte,bruno@email.com,Masculino,"Av. M, 432",4500.0,1984-08-07
+14,Patrícia Costa,(51) 98765-1098,Porto Alegre,patricia@email.com,Feminino,"Rua N, 765",4200.0,1981-12-31
+15,Rodrigo Martins,(41) 98765-0987,Curitiba,rodrigo@email.com,Masculino,"Av. O, 321",6500.0,1978-06-23
+16,Juliana Ferreira,(11) 98765-9876,São Paulo,juliana@email.com,Feminino,"Rua P, 876",4800.0,1987-09-17
+17,Gabriel Silva,(21) 98765-8765,Rio de Janeiro,gabriel@email.com,Masculino,"Av. Q, 543",5500.0,1982-02-19
+18,Vanessa Souza,(31) 98765-7654,Belo Horizonte,vanessa@email.com,Feminino,"Rua R, 234",4000.0,1990-04-03
+19,Fernando Oliveira,(51) 98765-6543,Porto Alegre,fernando@email.com,Masculino,"Av. S, 987",7000.0,1983-11-11
+20,Larissa Santos,(41) 98765-5432,Curitiba,larissa@email.com,Feminino,"Rua T, 432",3200.0,1993-08-25
+21,Ricardo Lima,(11) 98765-4321,São Paulo,ricardo@email.com,Masculino,"Av. U, 1098",5800.0,1988-12-05
+22,Amanda Costa,(21) 98765-3210,Rio de Janeiro,amanda@email.com,Feminino,"Rua V, 765",3900.0,1996-05-19
+23,Renato Oliveira,(31) 98765-2109,Belo Horizonte,renato@email.com,Masculino,"Av. W, 321",4500.0,1985-10-14
+24,Tatiana Costa,(51) 98765-1098,Porto Alegre,tatiana@email.com,Feminino,"Rua X, 876",4200.0,1982-01-27
+25,Marcos Santos,(41) 98765-0987,Curitiba,marcos@email.com,Masculino,"Av. Y, 987",6500.0,1979-07-21
+26,Isabela Ferreira,(11) 98765-9876,São Paulo,isabela@email.com,Feminino,"Rua Z, 234",4800.0,1988-10-03
+27,Lucas Silva,(21) 98765-8765,Rio de Janeiro,lucas@email.com,Masculino,"Av. A1, 543",5500.0,1983-03-25
+28,Natália Souza,(31) 98765-7654,Belo Horizonte,natalia@email.com,Feminino,"Rua B1, 987",4000.0,1991-05-08
+29,Leandro Oliveira,(51) 98765-6543,Porto Alegre,leandro@email.com,Masculino,"Av. C1, 321",7000.0,1984-12-17
+30,Julia Santos,(41) 98765-5432,Curitiba,julia@email.com,Feminino,"Rua D1, 876",3200.0,1994-09-10
+31,Marcelo Lima,(11) 98765-4321,São Paulo,marcelo@email.com,Masculino,"Av. E1, 1098",5800.0,1989-01-22
+32,Carolina Costa,(21) 98765-3210,Rio de Janeiro,carolina@email.com,Feminino,"Rua F1, 765",3900.0,1997-04-15
+33,Paulo Oliveira,(31) 98765-2109,Belo Horizonte,paulo@email.com,Masculino,"Av. G1, 321",4500.0,1986-11-18
+34,Fernanda Costa,(51) 98765-1098,Porto Alegre,fernanda@email.com,Feminino,"Rua H1, 876",4200.0,1983-02-09
+35,Gabriel Santos,(41) 98765-0987,Curitiba,gabriel@email.com,Masculino,"Av. I1, 987",6500.0,1980-08-13
+36,Vanessa Ferreira,(11) 98765-9876,São Paulo,vanessa@email.com,Feminino,"Rua J1, 234",4800.0,1989-11-26
+37,Eduardo Silva,(21) 98765-8765,Rio de Janeiro,eduardo@email.com,Masculino,"Av. K1, 543",5500.0,1984-04-30
+38,Renata Oliveira,(31) 98765-7654,Belo Horizonte,renata@email.com,Feminino,"Rua L1, 987",4000.0,1992-06-03
+39,Thiago Martins,(51) 98765-6543,Porto Alegre,thiago@email.com,Masculino,"Av. M1, 321",7000.0,1985-01-14
+40,Mariana Santos,(41) 98765-5432,Curitiba,mariana@email.com,Feminino,"Rua N1, 876",3200.0,1993-04-27

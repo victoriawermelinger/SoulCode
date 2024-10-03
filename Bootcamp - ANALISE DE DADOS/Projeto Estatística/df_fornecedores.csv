@@ -1,0 +1,4 @@
+id_fornecedor,nome,cidade,endereco,cnpj
+1,Fornecedor A,São Paulo,"Rua G, 234",1234
+2,Fornecedor B,Rio de Janeiro,"Av. H, 567",9876
+3,Fornecedor C,Belo Horizonte,"Rua I, 890",5678

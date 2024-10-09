@@ -1,0 +1,9 @@
+{
+  "version": "4.0",
+  "datasetReference": {
+    "byPath": {
+      "path": "../Exercício_PowerBi_08.10.2024.SemanticModel"
+    },
+    "byConnection": null
+  }
+}

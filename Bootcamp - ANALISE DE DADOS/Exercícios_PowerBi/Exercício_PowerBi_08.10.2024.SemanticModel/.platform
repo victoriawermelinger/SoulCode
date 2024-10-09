@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "SemanticModel",
+    "displayName": "Exercício_PowerBi_08.10.2024"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "a9c6df0a-6eb2-456d-aad9-47de37ee3709"
+  }
+}

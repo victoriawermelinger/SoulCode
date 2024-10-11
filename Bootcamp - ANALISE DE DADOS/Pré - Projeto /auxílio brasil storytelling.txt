@@ -1,0 +1,89 @@
+STORYTELLING AUXÍLIO BRASIL
+
+INTRODUÇÃO
+
+O Auxílio Brasil foi lançado em novembro de 2021 como um programa de transferência de renda, substituindo o antigo Bolsa Família, durante o governo de Jair Bolsonaro. Ele tinha como foco principal garantir uma renda mínima às famílias em situação de pobreza e extrema pobreza, promovendo inclusão social e combatendo a desigualdade. Com a posse do governo Lula, em 2023, o programa foi reformulado e voltou a ser chamado de Bolsa Família, com algumas alterações significativas nos critérios e valores.
+
+OBJETIVOS
+
+Nosso objetivo é avaliar a evolução do número de beneficiários/fmaílias, valor médio e valor total repassado por estado ao longo de 2021 a 2023, buscando identificar os impactos causados pelas mudanças no programa, especialmente a transição do Auxílio Brasil para o Bolsa Família.
+
+INSIGHTS - ANÁLISE DOS GRÁFICOS
+
+*Análise geral dos cards e dos gráficos
+
+Evolução do Auxílio Brasil (2021-2023)
+Em termos de famílias beneficiadas, observamos um crescimento expressivo ao longo dos anos:
+
+2021: 14,52 milhões de famílias
+2022: 21,6 milhões de famílias
+2023: 21,87 milhões de famílias
+Em termos de valor repassado, o ano de 2022 foi o que apresentou maior repasse:
+
+2021: R$ 6,51 bilhões
+2022: R$ 93,73 bilhões
+2023: R$ 26,48 bilhões
+Já o número de pessoas beneficiadas seguiu uma tendência similar de crescimento:
+
+2021: 44 milhões de pessoas
+2022: 55,26 milhões de pessoas
+2023: 55,75 milhões de pessoas
+
+Principais Insights
+Ao aplicar os filtros por ano, podemos notar que o número de famílias e pessoas beneficiadas aumentou significativamente entre 2021 e 2022. 
+
+*Gráfico de barras com o total de pessoas beneficárias por estado
+
+O gráfico de barras evidencia que, em 2021, os estados da Bahia, São Paulo e Minas Gerais lideraram em número de beneficiários. No entanto, em 2022 e 2023, houve uma inversão entre Bahia e São Paulo, com este último passando a ocupar o primeiro lugar no ranking, atingindo mais de 6 milhões de beneficiários, enquanto Minas Gerais manteve-se em terceiro.
+
+Em contrapartida, os estados com menor número de beneficiários em 2023 foram Acre, Rondônia e Amapá, todos com menos de 2 milhões de pessoas atendidas.
+
+*Mapa geográfico com o número de famílias beneficiads por estado
+
+
+O gráfico com o mapa do Brasil evidencia a distribuição das famílias beneficiadas por estado, e demosntra que os estados no leste do território, principalmente os que fazem parte das regiões sudeste e nordeste,  tendem a ter maior número de famílias, enquanto os estados à oeste tendem a ter um menor número. Isso está diretamente atrelado a densidade demográfica no Brasil que varia bastante de acordo com a região, refletindo tanto a distribuição populacional quanto as condições geográficas e econômicas. As regiões sudeste e nordeste tendem a ser mais populosas devido à colonização histórica e a urbanização. Enquanto as regiões norte e centro - oeste possuem menor densidade demográfica, no caso da região norte isso ocorre devido à presença da floresta amazônica, como, por exemplo, nos estados do Acre e Roraima a maior parte do seu território é coberto por vegetação. Já no centro-oeste grandes áreas são ocupadas por fazendas e regiões agrícolas, o que contribui para uma baixa densidade populacional.
+
+*Análise temporal do valor total repassado por ano
+
+No gráfico de análise temporal de total de valor repassado pelo auxílio brasil, observa-se que houve um aumento significativo no valor repassado em 2022 para 94 bilhões de reais, em relação ao ano de 2021. Contudo, houve uma redução drástica no ano de 2023 que teve um valor total de 26 bilhões, apesar do número de famílias beneficiárias ter tido um pequeno aumento. Uma possível explicação para esse valor discrepante em 2022 é que nesse o governo inclui no auxílio brasil outros tipos de beneficiios, como o "auxílio esporte escolar" e o "bolsa iniciação científica, além de aumnetar o valor médio de 400 para 600 reais a fim de mitigar os efeitos econômicos da pandemia. Além disso, em 2023 sob o novo governo eleito, o programa auxílio brasil passou por uma reformulação a fim de reavaliar os critérios para obtenção do benefício, e detectar possíveis fraudes e beneficiários irregulares, ou seja, que não deveriam receber o auxílio. Segundo o relatório disponibilizado pelo governo houve um rombo potencial de 34,1 bilhões no Auxílio Brasil em 2022. O prejuízo foi causado por inconsistência nos dados das famílias cadastradas no CadÚnico e que receberam o Auxílio Brasil, o atual Bolsa Família, em dezembro de 2022. 
+
+CONCLUSÃO
+### Storytelling: Análise do Auxílio Brasil de 2021 a 2023
+
+**Introdução**  
+O **Auxílio Brasil** foi lançado em novembro de 2021 como um programa de transferência de renda, substituindo o antigo Bolsa Família, durante o governo de Jair Bolsonaro. Ele tinha como foco principal garantir uma renda mínima às famílias em situação de pobreza e extrema pobreza, promovendo inclusão social e combatendo a desigualdade. Com a posse do governo Lula, em 2023, o programa foi reformulado e voltou a ser chamado de Bolsa Família, com algumas alterações significativas nos critérios e valores.
+
+**Objetivos da Análise**  
+Nosso objetivo é avaliar a **evolução do número de beneficiários** e o **valor total repassado** por estado ao longo de 2021 a 2023, buscando identificar os impactos causados pelas mudanças no programa, especialmente a transição do Auxílio Brasil para o Bolsa Família.
+
+**Evolução do Auxílio Brasil (2021-2023)**  
+Em termos de **famílias beneficiadas**, observamos um crescimento expressivo ao longo dos anos:
+- 2021: 14,52 milhões de famílias
+- 2022: 21,6 milhões de famílias
+- 2023: 21,87 milhões de famílias
+
+Em termos de **valor repassado**, o ano de 2022 foi o que apresentou maior repasse:
+- 2021: R$ 6,51 bilhões
+- 2022: R$ 93,73 bilhões
+- 2023: R$ 26,48 bilhões
+
+Já o número de **pessoas beneficiadas** seguiu uma tendência similar de crescimento:
+- 2021: 44 milhões de pessoas
+- 2022: 55,26 milhões de pessoas
+- 2023: 55,75 milhões de pessoas
+
+**Principais Insights**  
+Ao aplicar os filtros por ano, podemos notar que o número de **famílias e pessoas beneficiadas** aumentou significativamente entre 2021 e 2022. O gráfico de barras evidencia que, em 2021, os estados da Bahia, São Paulo e Minas Gerais lideraram em número de beneficiários. No entanto, em 2022 e 2023, houve uma inversão entre Bahia e São Paulo, com este último passando a ocupar o primeiro lugar no ranking, atingindo mais de **6 milhões de beneficiários**, enquanto Minas Gerais manteve-se em terceiro.
+
+Em contrapartida, os estados com menor número de beneficiários em 2023 foram **Acre, Rondônia e Amapá**, todos com menos de 2 milhões de pessoas atendidas.
+
+**Distribuição Geográfica**  
+Ao analisarmos o **mapa do Brasil** com a distribuição das famílias beneficiadas por estado, fica claro que as regiões **Sudeste** e **Nordeste** (especialmente no litoral) concentram o maior número de beneficiários. Isso se deve em parte à alta **densidade demográfica** nessas regiões, onde as condições econômicas e históricas de urbanização influenciam a concentração populacional. Já as regiões **Norte** e **Centro-Oeste** apresentam números menores de beneficiários devido à baixa densidade populacional, influenciada pela presença da Floresta Amazônica e grandes áreas agrícolas.
+
+**Análise Temporal do Valor Repassado**  
+Um ponto crucial desta análise está na evolução do **valor total repassado**. Em 2022, houve um aumento expressivo para R$ 94 bilhões, em comparação aos R$ 6,51 bilhões de 2021. Essa diferença se deve principalmente à inclusão de novos benefícios, como o "Auxílio Esporte Escolar" e a "Bolsa Iniciação Científica", além do aumento do valor médio do benefício de R$ 400 para R$ 600, em resposta aos impactos econômicos da pandemia. No entanto, em 2023, sob a nova gestão, o valor total caiu drasticamente para R$ 26 bilhões, apesar de o número de beneficiários ter permanecido alto.
+
+Essa queda no valor repassado está diretamente ligada à **reformulação do programa** em 2023. O governo Lula revisou os critérios de elegibilidade, excluindo beneficiários irregulares, e identificou um possível **rombo de R$ 34,1 bilhões** em 2022, causado por inconsistências no cadastro das famílias que recebiam o auxílio.
+
+CONCLUSÃO
+A análise mostra claramente a evolução e os desafios enfrentados pelo Auxílio Brasil. Enquanto o número de beneficiários cresceu, as mudanças no valor repassado e a revisão cadastral em 2023 destacam a importância de ajustes no programa para garantir a eficiência e o impacto social desejado. O novo Bolsa Família, com suas reformulações, parece ter sido uma resposta para corrigir falhas e melhorar a gestão dos recursos.
